@@ -1,0 +1,13 @@
+Code Testing & Debugging:
+
+JSFiddle – An online code editor that allows developers to write and test HTML, CSS, and JavaScript in real time. It is widely used for prototyping and sharing code snippets with others
+https://jsfiddle.net
+
+CodePen – A popular frontend development playground for experimenting with web technologies. It allows developers to create, test, and showcase interactive UI components and animations
+https://codepen.io/
+
+ESLint – A JavaScript linter that analyzes code to identify and fix errors, enforce coding standards, and maintain best practices. It helps improve code quality by catching potential issues early
+https://eslint.org/
+
+Prettier – A code formatter that automatically ensures consistent styling across JavaScript, HTML, CSS, and other languages. It improves readability by enforcing uniform indentation, spacing, and syntax formatting
+https://prettier.io/
