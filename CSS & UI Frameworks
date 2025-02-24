@@ -1,0 +1,13 @@
+ CSS & UI Frameworks:
+
+Bootstrap – One of the most popular CSS frameworks, Bootstrap provides pre-styled components and a responsive grid system. It simplifies web development by offering reusable design elements like buttons, forms, and navigation bars, making it ideal for rapid prototyping.
+https://getbootstrap.com/
+
+Tailwind CSS – A utility-first CSS framework that allows developers to build custom designs without writing traditional CSS. It provides low-level utility classes, enabling rapid styling while maintaining flexibility and performance.
+https://tailwindcss.com/
+
+Material UI – A React component library based on Google’s Material Design principles. It offers a collection of ready-to-use, customizable components that provide a modern, sleek, and consistent UI experience for web applications.
+https://mui.com/material-ui/?srsltid=AfmBOoriPVjyvwobvDSOBAF0HchiQGMmWaZEZTXqLM30o_Dfcs88ipvU
+
+Chakra UI – A modern React UI framework that focuses on accessibility and ease of use. It provides a set of composable, theme-aware components, making it ideal for building scalable and responsive applications with minimal effort.
+https://chakra-ui.com/
