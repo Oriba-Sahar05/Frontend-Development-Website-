@@ -1,0 +1,13 @@
+ JavaScript Libraries & Frameworks:
+
+React – A UI library developed by Meta (Facebook) for building interactive and dynamic web applications. It uses a component-based architecture and a virtual DOM for efficient rendering. React is widely used for developing single-page applications (SPAs) and supports frameworks like Next.js for server-side rendering.
+https://react.dev/
+
+Vue.js – A progressive JavaScript framework designed for building user interfaces. Vue is known for its simplicity, reactive data binding, and ease of integration with existing projects. It provides flexibility, allowing developers to scale from simple applications to complex single-page apps with Vue Router and Vuex.
+https://vuejs.org/
+
+Angular – A robust frontend framework maintained by Google, built with TypeScript. Angular follows a structured, modular approach with features like two-way data binding, dependency injection, and a powerful CLI for building large-scale enterprise applications. It is commonly used for SPAs and dynamic web applications.
+https://angular.dev/
+
+Svelte – A modern JavaScript framework that shifts much of the work to compile time, producing highly optimized and fast applications. Unlike React or Vue, Svelte does not use a virtual DOM, leading to better performance and simpler code. It is ideal for lightweight and high-performance web apps.
+https://svelte.dev/
