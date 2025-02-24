@@ -1,0 +1,13 @@
+Version Control & Deployment:
+
+GitHub – A widely used version control platform that helps developers manage code, collaborate, and track changes using Git. It enables teams to work on projects efficiently with features like branching, pull requests, and code reviews
+https://github.com/resources/articles/software-development/what-is-version-control
+
+GitLab – A DevOps platform that integrates version control with CI/CD pipelines, security testing, and deployment automation. It allows developers to manage code repositories while streamlining software development workflows
+https://about.gitlab.com/topics/version-control/how-implement-version-control/
+
+Vercel – A cloud platform for deploying frontend applications, especially for frameworks like Next.js. It offers fast, serverless deployments, automatic scaling, and integration with Git repositories for seamless updates
+https://vercel.com/
+
+Netlify – A CI/CD (Continuous Integration and Deployment) platform that automates the deployment of static sites and frontend applications. It supports Git-based workflows, webhooks, and serverless functions to optimize web development processes
+https://www.netlify.com/blog/guide-to-ci-cd-automation-using-webhooks/
