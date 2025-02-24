@@ -1,0 +1,10 @@
+ APIs & Mock Data:
+
+JSONPlaceholder – A free, fake REST API for testing and prototyping. It provides sample data such as users, posts, comments, and more, allowing developers to test API calls without setting up a backend.
+https://jsonplaceholder.typicode.com/
+
+Reqres – A test API designed specifically for authentication and CRUD operations. It simulates real-world user authentication scenarios, making it useful for testing login systems and user management features.
+https://reqres.in/
+
+Mockaroo – A powerful mock data generator that allows developers to create custom datasets in various formats (JSON, CSV, SQL, etc.). It helps in testing applications by providing realistic, structured data without the need for a real database
+https://www.mockaroo.com/
