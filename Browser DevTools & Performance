@@ -1,0 +1,9 @@
+Browser DevTools & Performance:
+Lighthouse – An open-source performance analysis tool by Google that audits web pages for speed, accessibility, SEO, and best practices. It provides detailed reports to help developers optimize their websites.
+https://developer.chrome.com/docs/lighthouse/overview
+
+PageSpeed Insights – A tool by Google that analyzes a webpage’s performance on both mobile and desktop devices. It provides optimization suggestions to improve loading speed and overall user experience.
+https://pagespeed.web.dev/
+
+Can I Use – A web tool that allows developers to check browser compatibility for various web technologies, including HTML, CSS, and JavaScript features. It helps ensure that websites work across different browsers and devices.
+https://caniuse.com/
